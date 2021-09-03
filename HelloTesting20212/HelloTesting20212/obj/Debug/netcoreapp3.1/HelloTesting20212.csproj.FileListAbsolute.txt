@@ -1,0 +1,4 @@
+F:\2021Calidad\practicaI\HelloTesting20212\HelloTesting20212\obj\Debug\netcoreapp3.1\HelloTesting20212.csprojAssemblyReference.cache
+F:\2021Calidad\practicaI\HelloTesting20212\HelloTesting20212\obj\Debug\netcoreapp3.1\HelloTesting20212.AssemblyInfoInputs.cache
+F:\2021Calidad\practicaI\HelloTesting20212\HelloTesting20212\obj\Debug\netcoreapp3.1\HelloTesting20212.AssemblyInfo.cs
+F:\2021Calidad\practicaI\HelloTesting20212\HelloTesting20212\obj\Debug\netcoreapp3.1\HelloTesting20212.csproj.CoreCompileInputs.cache
